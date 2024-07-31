@@ -51,15 +51,15 @@ export const skills = [
       },
       {
         name: "JWT",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        image: "https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png",
       },
       {
         name: "Docker",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        image: "https://img.icons8.com/?size=96&id=22813&format=png",
       },
       {
         name: "AWS",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        image: "https://img.icons8.com/?size=96&id=33039&format=png",
       },
       {
         name: "MongoDB",
@@ -77,8 +77,7 @@ export const skills = [
     skills: [
       {
         name: "Next Js",
-        image:
-          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+        image:"https://img.icons8.com/?size=100&id=66746&format=png",
       },
       {
         name: "React Js",
@@ -131,12 +130,12 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://img.icons8.com/?size=96&id=20906&format=png",
       },
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://img.icons8.com/?size=100&id=12599&format=png",
       },
       
     
@@ -148,7 +147,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://img.icons8.com/?size=160&id=EPbEfEa7o8CB&format=png",
       },
     
       

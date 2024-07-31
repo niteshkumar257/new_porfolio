@@ -77,7 +77,7 @@ export const HeroLeftContainer = styled.div`
 export const HeroRightContainer = styled.div`
   width: 100%;
   display: flex;
-  order: 2;
+  order: 1;
   justify-content: end;
   gap: 12px;
   :hover{
@@ -117,7 +117,7 @@ export const Img = styled.img`
   transition: transform 0.3s ease-in-out;
 
    
-  border: 2px solid ${({ theme }) => theme.primary};
+  // border: 2px solid ${({ theme }) => theme.primary};
 
   &:hover {
     transform: scale(1.05); /* Increase the size on hover */
