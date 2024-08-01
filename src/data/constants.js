@@ -19,7 +19,7 @@ export const Bio = {
     "A recent graduate(2024 batch) from the Veer Surendra Sai University of Technology Passionate about Software development",
   github: "https://github.com/niteshkumar257",
   resume:
-    "https://drive.google.com/file/d/1RFHsCx78jpy_VcTUQDecf_m1aFcC51ee/view?usp=sharing",
+    "https://drive.google.com/file/d/1HUW30poWWLTNx6Z7nHDFMir1BScSWdyR/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/niteshreddy257/",
  
 };
